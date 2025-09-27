@@ -56,8 +56,6 @@ Customer-Churn-Prediction/
 
 ---
 
----
-
 ## Screenshots 
 *Customer Churn Prediction System Website*
 <img width="1912" height="1031" alt="Screenshot 2025-09-27 130758" src="https://github.com/user-attachments/assets/11160ae6-e2d4-42dd-835e-47a3125d823e" />
