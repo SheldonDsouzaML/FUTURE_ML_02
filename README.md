@@ -32,6 +32,7 @@ The goal is to build a **Churn Prediction System** that identifies customers at 
 ---
 
 ## 📂 Repository Structure
+'''
 Customer-Churn-Prediction/
 │
 ├── artifacts/
@@ -53,6 +54,7 @@ Customer-Churn-Prediction/
 ├── app.py
 ├── README.md
 └── requirements.txt
+'''
 
 ---
 
